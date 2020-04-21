@@ -1,0 +1,22 @@
+20
+ Apple
+ Acer
+ Adidas
+ Adobe
+ Amazon
+ Audi
+ Boeing
+ Bose
+ Ferrari
+ Fiat
+ Ford
+ Hitachi
+ Honda
+ Hyundai
+ Kia
+ Lego
+ Mercedes
+ Microsoft
+ Nike
+ Tesla 
+
